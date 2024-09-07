@@ -4,7 +4,6 @@
     - **Sample Input:** None (initialize directly).
     - **Sample Output:** `[10, 20, 30, 40, 50]` 
 */
-   import java.util.Arrays;
     class IntegerArray{
         public static void main(String[] args){
             int[] arr = { 10, 20, 30, 40, 50 };

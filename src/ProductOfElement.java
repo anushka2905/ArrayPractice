@@ -1,3 +1,4 @@
+package src;
 /*18. **Product of Array Elements:**
     - **Task:** Write a Java program to find the product of all elements in a double array.
     - **Sample Input:** `[1.5, 2.0, 3.5]`

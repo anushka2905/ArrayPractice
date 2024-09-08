@@ -1,3 +1,4 @@
+package src;
 /*
  * **Check for Duplicates:**
     - **Task:** Write a program to check if there are any duplicate elements in an integer array.

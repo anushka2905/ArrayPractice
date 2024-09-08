@@ -1,3 +1,4 @@
+package src;
 /*
     **Integer Array Initialization:**
     - **Task:** Create an integer array of size 5 and initialize it with the values 10, 20, 30, 40, and 50.

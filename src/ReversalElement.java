@@ -1,3 +1,4 @@
+package src;
 import java.util.Arrays;
 
 /***Reverse an Array:**
@@ -7,7 +8,6 @@ import java.util.Arrays;
 public class ReversalElement {
     public static void main(String[] args){
         char[] arr = {'a', 'b', 'c', 'd', 'e'};
-        char reverse = arr[0];
         int left = 0;
         int right = arr.length - 1;
       

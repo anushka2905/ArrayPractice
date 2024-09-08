@@ -1,3 +1,4 @@
+package src;
 /*
  * **Copying Arrays:**
     - **Task:** Create two integer arrays of size 5. Write a program to copy the elements of the first array into the second array.

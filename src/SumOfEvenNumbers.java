@@ -1,3 +1,4 @@
+package src;
 /*
  * **Sum of Even Elements:**
    - **Task:** Write a Java program to find the sum of all even numbers in an integer array.

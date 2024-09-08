@@ -1,3 +1,4 @@
+package src;
 /*
  * 16. **Replace Elements in an Array:**
     - **Task:** Write a program to replace all occurrences of a specific integer in an array with another integer.

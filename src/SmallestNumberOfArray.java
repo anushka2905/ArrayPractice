@@ -1,3 +1,4 @@
+package src;
 /*
  * 17. **Find the Smallest Positive Number:**
     - **Task:** Given an integer array, write a program to find the smallest positive number in the array.

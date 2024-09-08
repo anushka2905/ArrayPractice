@@ -5,7 +5,7 @@
     - **Sample Output:** `Smallest positive number = 3`
  */
 
-import java.util.Arrays;
+
 
 class SmallestNumberOfArray{
     public static void main(String[] args){

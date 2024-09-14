@@ -22,6 +22,9 @@ public class ReversalElement {
             left++;
             right--;
         }
+
+
+        
         System.out.println("Reversed array: " + Arrays.toString(arr));
 
         }

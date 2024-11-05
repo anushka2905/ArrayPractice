@@ -1,4 +1,4 @@
-package src;
+
 /***Count Occurrences of an Element:**
     - **Task:** Write a program to count the number of times a specific character appears in a character array.
     - **Sample Input:** `Array: ['a', 'b', 'a', 'c', 'a', 'd']`, `Character to count: 'a'`

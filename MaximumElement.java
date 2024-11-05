@@ -1,4 +1,4 @@
-package src;
+
 /***Find Maximum Element:**
     - **Task:** Given an integer array, write a program to find and print the maximum element in the array.
     - **Sample Input:** `[5, 12, 3, 19, 7, 26, 14]`

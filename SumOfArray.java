@@ -1,4 +1,4 @@
-package src;
+
 /*
  *  **Sum of Array Elements:**
     - **Task:** Write a program to calculate the sum of all elements in an integer array of size 10.

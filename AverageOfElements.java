@@ -1,4 +1,4 @@
-package src;
+
 /*
  * **Average of Array Elements:**
     - **Task:** Create a float array of size 7. Write a program to calculate the average of the elements in the array.

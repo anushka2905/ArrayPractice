@@ -1,10 +1,4 @@
-package src;
-/*
- * 12. **Shift Array Elements:**
-    - **Task:** Write a Java program to shift all elements of an integer array to the left by one position.
-    - **Sample Input:** `[10, 20, 30, 40, 50]`
-    - **Sample Output:** `[20, 30, 40, 50, 10]`
- */
+
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package src;
+
 /*
  * **Find Minimum Element:**
     - **Task:** Write a Java program to find the minimum value in a double array.

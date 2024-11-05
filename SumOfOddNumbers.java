@@ -1,4 +1,4 @@
-package src;
+
 /*
  * 15. **Sum of Odd Elements:**
     - **Task:** Write a Java program to calculate the sum of all odd numbers in an integer array.
